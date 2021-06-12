@@ -11,8 +11,8 @@
 <form action="index.php">
 <div class="form-style-6">
 <p>
-<h1>Sinu number voi email on sisse kantud meie andmekogusse.</h1>
-<h3>Teile tuleb info telefonile või emailile, kohe kui vaba aeg tuleb.</h3>
+<h1>Sinu number või email on sisse kantud meie andmekogusse.</h1>
+<h3>Teile tuleb info telefonile või emailile, kohe kui vaba aeg on saadav.</h3>
 <p>
 <input type="submit" value="Tagasi veebilehele!">
 
