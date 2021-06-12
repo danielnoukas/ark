@@ -4,8 +4,27 @@
 <head>
     <title>Insert Page page</title>
 </head>
-  
+<link rel="stylesheet" href="style.css">
 <body>
+
+<div class="container">
+<form action="index.php">
+<div class="form-style-6">
+<p>
+<h1>Sinu number voi email on sisse kantud meie andmekogusse.</h1>
+<h3>Teile tuleb info telefonile või emailile, kohe kui vaba aeg tuleb.</h3>
+<p>
+<input type="submit" value="Tagasi veebilehele!">
+
+  <br>
+</form> 
+
+</div>
+</body>
+</html>
+
+
+
 
         <?php
   
